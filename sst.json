@@ -1,0 +1,5 @@
+{
+  "name": "serverless-chat-app",
+  "region": "ap-south-1",
+  "main": "stacks/index.ts"
+}
